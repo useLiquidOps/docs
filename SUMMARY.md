@@ -15,3 +15,12 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## ⚙️ Developers
+
+* [LiquidOps JS](developers/liquidops-js.md)
+* [AO Lua docs](developers/ao-lua-docs.md)
+
+***
+
+* [🔗 LiquidOps.io](https://liquidops.io)
