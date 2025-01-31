@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [👋 Welcome to LiquidOps](README.md)
 
 ## Getting Started
 
