@@ -26,4 +26,3 @@
 * [X](https://x.com/Liquid_Ops)
 * [Discord](https://discord.gg/Jad4v8ykgY)
 * [GitHub](https://github.com/useLiquidOps)
-* [LiquidOps.io](https://liquidops.io)
