@@ -16,5 +16,4 @@ const unLend = await client.unLend({
   token: "QAR",
   quantity: 1n,
 });
-
 ```
