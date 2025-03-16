@@ -4,8 +4,6 @@
 
 ## ⚙️ Developers
 
-***
-
 * [LiquidOps JS](liquidops-js/README.md)
   * [Installation & quickstart](liquidops-js/installation-and-quickstart.md)
   * [Token data](liquidops-js/token-data.md)
