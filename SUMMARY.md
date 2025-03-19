@@ -12,7 +12,7 @@
   * [Protocol data functions](liquidops-js/protocol-data-functions.md)
   * [Lending](liquidops-js/lending.md)
   * [Borrowing](liquidops-js/borrowing.md)
-  * [Liquidation](liquidops-js/liquidation.md)
+  * [Liquidations](developers/liquidops-js/liquidations.md)
   * [Retrieving transactions](liquidops-js/retrieving-transactions.md)
 
 ## 🔐 Security
