@@ -53,7 +53,7 @@ const client = new LiquidOps(signer);
 Declare LiquidOps class in node environments:
 
 ```typescript
-import { createDataItemSigner } from "@permaweb/aoconnect";
+import { createDataItemSigner } from "@permaweb/aoconnect/dist/client/node/wallet";
 import LiquidOps from "liquidops";
 
 const signer = createDataItemSigner(window.arweaveWallet);
@@ -64,7 +64,7 @@ const client = new LiquidOps(signer);
 Here's a simple lending example to get you started:
 
 ```typescript
-import { createDataItemSigner } from "@permaweb/aoconnect";
+import { createDataItemSigner } from "@permaweb/aoconnect/dist/client/node/wallet";
 import LiquidOps from "liquidops";
 
 const signer = createDataItemSigner(window.arweaveWallet);
