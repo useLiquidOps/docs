@@ -21,8 +21,11 @@
 
 ## Additional links
 
+* [Send feedback](https://forms.gle/nzErNbwpq1w4gPEt8)
+* [Linktree](https://linktr.ee/LiquidOps)
+
+## Social media
+
 * [X](https://x.com/Liquid_Ops)
 * [Discord](https://discord.gg/Jad4v8ykgY)
 * [GitHub](https://github.com/useLiquidOps)
-* [Send feedback](https://forms.gle/nzErNbwpq1w4gPEt8)
-* [Linktree](https://linktr.ee/LiquidOps)
