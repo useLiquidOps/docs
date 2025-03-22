@@ -15,11 +15,3 @@ const getHistoricalAPR = await client.getHistoricalAPR({
   token: "QAR",
 });
 ```
-
-Get liquidations
-
-```typescript
-const getLiquidations = client.getLiquidations({
-  token: "QAR",
-});
-```

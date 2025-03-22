@@ -16,6 +16,14 @@ const getBalances = await client.getBalances({
 });
 ```
 
+Get exchange rate
+
+```typescript
+const getExchangeRate = await client.getExchangeRate({
+  token: "QAR",
+});
+```
+
 Get token info
 
 ```typescript
@@ -30,22 +38,5 @@ Get position for a address
 const getPosition = await client.getPosition({
   token: "QAR",
   recipient: "psh5nUh3VF22Pr8LeoV1K2blRNOOnoVH0BbZ85yRick",
-});
-```
-
-Get price for quantity
-
-```typescript
-const getPrice = await client.getPrice({
-  token: "QAR",
-  quantity: 1n,
-});
-```
-
-Get reserves
-
-```typescript
-const getReserves = await client.getReserves({
-  token: "QAR",
 });
 ```
