@@ -60,9 +60,9 @@ const resolved = tokenInput("XJYGT9ZrVdzQ5d7FzptIsKrJtEF4jWPbgC91bXuBAwU");
 {
   tokenAddress: "XJYGT9...",    // Base token address
   oTokenAddress: "CbT2b...",    // oToken address
-  controllerAddress: "vYlv6..." // Controller contract address
+  controllerAddress: "vYlv6..." // Controller process address
 }
 */
 ```
 
-Currently supported tokens: QAR (Test Quantum Arweave), STETH (Test Staked Ethereum), USDC (Test USD Circle)
+Currently supported tokens: QAR (Test Quantum Arweave) and USDC (Test USD Circle)
