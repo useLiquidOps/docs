@@ -20,10 +20,11 @@ bun i liquidops
 
 {% hint style="warning" %}
 ```
-@permaweb/aoconnect <= 0.0.77
+@permaweb/aoconnect >= 0.0.77
+ao-tokens >= 0.0.5
 ```
 
-&#x20;Required peer dependencies for LiquidOps JS
+Required peer dependencies for LiquidOps JS
 {% endhint %}
 
 Here's a simple lending example to get you started:
