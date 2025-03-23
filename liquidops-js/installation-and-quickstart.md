@@ -50,6 +50,19 @@ const signer = createDataItemSigner(JWK);
 const client = new LiquidOps(signer);
 ```
 
+You can also add optional custom configurations to the SDK:
+
+```typescript
+const client = new LiquidOps(signer, {
+    GATEWAY_URL: "",
+    GRAPHQL_URL: "",
+    GRAPHQL_MAX_RETRIES: "",
+    GRAPHQL_RETRY_BACKOFF: "",
+    MU_URL: "",
+    CU_URL: ""
+});
+```
+
 Declare LiquidOps class in node environments:
 
 ```typescript
