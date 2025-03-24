@@ -24,6 +24,14 @@ const getExchangeRate = await client.getExchangeRate({
 });
 ```
 
+Get global position
+
+```typescript
+const getGlobalPosition = await client.getGlobalPosition({
+  walletAddress: "psh5nUh3VF22Pr8LeoV1K2blRNOOnoVH0BbZ85yRick"
+});
+```
+
 Get token info
 
 ```typescript
