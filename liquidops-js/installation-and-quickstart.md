@@ -21,7 +21,7 @@ bun i liquidops
 {% hint style="warning" %}
 ```
 @permaweb/aoconnect >= 0.0.77
-ao-tokens >= 0.0.5
+ao-tokens >= 0.0.6
 ```
 
 Required peer dependencies for LiquidOps JS
