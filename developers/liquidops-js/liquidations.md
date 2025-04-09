@@ -1,4 +1,4 @@
-# Liquidation
+# Liquidations
 
 Liquidate a position
 
@@ -14,7 +14,5 @@ const liquidate = client.liquidate({
 Get available liquidations
 
 ```typescript
-const liquidate = client.getLiquidations({
-  token: "QAR",
-});
+const liquidate = client.getLiquidations();
 ```
