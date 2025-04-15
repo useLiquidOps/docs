@@ -2,6 +2,14 @@
 
 * [👋 Welcome to LiquidOps](README.md)
 
+## 📜 Protocol
+
+* [Oracle](protocol/oracle.md)
+
+## 🔐 Security
+
+* [Audits](security/audits.md)
+
 ## ⚙️ Developers
 
 * [LiquidOps JS](liquidops-js/README.md)
@@ -14,10 +22,6 @@
   * [Borrowing](liquidops-js/borrowing.md)
   * [Liquidations](developers/liquidops-js/liquidations.md)
   * [Retrieving transactions](liquidops-js/retrieving-transactions.md)
-
-## 🔐 Security
-
-* [Audits](security/audits.md)
 
 ## Additional links
 
