@@ -63,7 +63,7 @@ const client = new LiquidOps(signer, {
 });
 ```
 
-Declare LiquidOps class in node environments:
+Declare LiquidOps class in web environments:
 
 ```typescript
 import { createDataItemSigner } from "@permaweb/aoconnect/dist/client/node/wallet";
