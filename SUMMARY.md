@@ -33,7 +33,3 @@
 * [X](https://x.com/Liquid_Ops)
 * [Discord](https://discord.gg/Jad4v8ykgY)
 * [GitHub](https://github.com/useLiquidOps)
-
-## Group 1
-
-* [AO Fair Launch](group-1/ao-fair-launch.md)
