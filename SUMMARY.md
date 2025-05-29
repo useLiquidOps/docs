@@ -23,6 +23,41 @@
   * [Liquidations](developers/liquidops-js/liquidations.md)
   * [Retrieving transactions](liquidops-js/retrieving-transactions.md)
 
+## 🔧 How to Use LiquidOps
+
+* [How do Liquidations Work in Overcollateralized Lending Protocols?](how-to-use-liquidops/how-do-liquidations-work-in-overcollateralized-lending-protocols.md)
+* [How does LiquidOps Enable Decentralized Leverage in the Arweave and AO Ecosystem?](how-to-use-liquidops/how-does-liquidops-enable-decentralized-leverage-in-the-arweave-and-ao-ecosystem.md)
+* [How to Use LiquidOps: A Step-By-Step Guide](how-to-use-liquidops/how-to-use-liquidops-a-step-by-step-guide.md)
+
+## 📘 Protocol Mechanics
+
+* [The Jump Rate Interest Model](protocol-mechanics/the-jump-rate-interest-model.md)
+* [The LiquidOps Auction Model](protocol-mechanics/the-liquidops-auction-model.md)
+
+***
+
+* [Cross-Collateral Lending Protocols](cross-collateral-lending-protocols.md)
+* [How are Lending Protocol Interest Rates Determined?](how-are-lending-protocol-interest-rates-determined.md)
+* [Lending Pools vs. Peer-to-Peer Lending](lending-pools-vs.-peer-to-peer-lending.md)
+
+## 💸 Earning Strategies
+
+* [Places to Earn Yield in the Arweave and AO Ecosystem](earning-strategies/places-to-earn-yield-in-the-arweave-and-ao-ecosystem.md)
+
+## ✨ Project Highlights
+
+* [Project Highlight: Astro](project-highlights/project-highlight-astro.md)
+
+***
+
+* [Project Highlight: Community Labs](project-highlight-community-labs.md)
+* [Project Highlight: Botega](project-highlight-botega.md)
+
+## 🌐 The AO and Arweave Ecosystem
+
+* [AO Fair Launch](the-ao-and-arweave-ecosystem/ao-fair-launch.md)
+* [Understanding AO: Key Projects and Pre-Bridged Assets Overview](the-ao-and-arweave-ecosystem/understanding-ao-key-projects-and-pre-bridged-assets-overview.md)
+
 ## Additional links
 
 * [Send feedback](https://forms.gle/nzErNbwpq1w4gPEt8)
