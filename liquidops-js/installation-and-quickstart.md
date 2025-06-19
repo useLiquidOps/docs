@@ -22,6 +22,7 @@ bun i liquidops
 ```
 @permaweb/aoconnect >= 0.0.77
 ao-tokens >= 0.0.6
+warp-arbundles >= 1.0.4
 ```
 
 Required peer dependencies for LiquidOps JS
