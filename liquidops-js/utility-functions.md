@@ -9,6 +9,14 @@ const getBalance = await client.getBalance({
 });
 ```
 
+Get price
+
+```typescript
+const getPrice = await client.getPrice({
+  token: "WAR",
+});
+```
+
 Get result
 
 ```typescript
