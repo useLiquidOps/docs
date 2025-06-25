@@ -60,6 +60,7 @@
 
 ## Additional links
 
+* [Brand Kit](https://www.figma.com/design/n2K75D92cMVZpZIj34ofqy/LiquidOps-Brand-Kit?node-id=0-1\&t=Vzx3WpwUYs8ebN61-1)
 * [Send feedback](https://forms.gle/nzErNbwpq1w4gPEt8)
 * [Linktree](https://linktr.ee/LiquidOps)
 
