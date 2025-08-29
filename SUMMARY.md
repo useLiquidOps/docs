@@ -33,6 +33,7 @@
 
 * [The Jump Rate Interest Model](protocol-mechanics/the-jump-rate-interest-model.md)
 * [The LiquidOps Auction Model](protocol-mechanics/the-liquidops-auction-model.md)
+* [The LiquidOps Fair Launch](protocol-mechanics/the-liquidops-fair-launch.md)
 * [The LQD Token](protocol-mechanics/the-lqd-token.md)
 
 ***
