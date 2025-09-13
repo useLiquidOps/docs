@@ -1,6 +1,6 @@
 # Project Highlight: Botega
 
-<figure><img src=".gitbook/assets/Botega.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Botega.png" alt=""><figcaption></figcaption></figure>
 
 ### What is Botega?
 
