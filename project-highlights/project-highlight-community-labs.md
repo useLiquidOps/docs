@@ -1,6 +1,6 @@
 # Project Highlight: Community Labs
 
-<figure><img src=".gitbook/assets/community labs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/community labs.png" alt=""><figcaption></figcaption></figure>
 
 ### What is Community Labs?
 

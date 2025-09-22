@@ -49,13 +49,11 @@
 ## ✨ Project Highlights
 
 * [Project Highlight: Arweave](project-highlights/project-highlight-arweave.md)
+* [Project Highlight: AO](project-highlights/project-highlight-ao.md)
 * [Project Highlight: Astro](project-highlights/project-highlight-astro.md)
 * [Project Highlight: Botega](project-highlights/project-highlight-botega.md)
-
-***
-
-* [Project Highlight: Community Labs](project-highlight-community-labs.md)
-* [Project Highlight: Perplex](project-highlight-perplex.md)
+* [Project Highlight: Community Labs](project-highlights/project-highlight-community-labs.md)
+* [Project Highlight: Perplex](project-highlights/project-highlight-perplex.md)
 
 ## 🌐 The AO and Arweave Ecosystem
 
